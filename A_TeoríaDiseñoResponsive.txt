@@ -1,0 +1,62 @@
+-Formatos de imagen-
+
+JPG
+Muy compacto, tamaño leve
+Calidad de imagen inferior
+No es posible la transparencia
+
+GIF
+Calidad de img muy baja, tamaño según calidad de la imagen
+Uso limitado (no todos los navegadores lo muestran)
+
+
+PNG
+Poco compacto
+Mantiene la calidad de la imagen
+Tamaño elevado
+Fondo transparente
+Acercamiento (pierde calidad de img)
+Colores OK
+Usar PNG para: img más detalladas, coloridas
+
+SVG
+Img vectoriales en dos dimensiones, posición y tamaño
+Más leve, tamaño variable
+Sigue instrucciones basadas en XML
+Es posible alterarlas usando código
+Acercamiento (muy bueno)
+Se pierden los colores (a veces)
+Usar SVG para: logotipos, íconos, ilustraciones sencillas
+Más info en:
+https://developer.mozilla.org/es/docs/Learn/HTML/Multimedia_and_embedding/Adding_vector_graphics_to_the_Web
+
+
+-Ventajas Mobile first-
+Se concentra en lo esencial
+Informaciones de más fácil acceso
+Máximo rendimiento
+Reduce el código fuente
+Uso del HTML5
+¿Por qué usarlo?
+La mayor parte de accesos y ventas provienen de dispositivos móviles
+El diseño es minimalista y simplificado
+Enfoque en el contenido
+
+-Ventajas de usar desktop-first-
+La interfaz tiene features más ricas
+Mayor capacidad de ejecución de las instrucciones
+El producto es optmizado para desktop (Ejemplo, Google Docs)
+
+-Medidas relativas-
+Toman otro elemento como referencia, son responsivas, se adaptan a los distintos tamaños de dispositivos
+rem, em, vw
+
+-Limitaciones de los dispositivos-
+3 problemáticas de los dispositivos...
+Manejar bien los espacios
+Tamaño de los botones
+Problemas en la señal
+
+-Para saber más de media queries-
+https://css-tricks.com/snippets/css/media-queries-for-standard-devices/
+
